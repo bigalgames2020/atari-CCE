@@ -1,0 +1,69 @@
+C-801 Mr. Postman
+C-802 Dancing Plate
+C-803 Bobby is Going Home
+C-804 Open Sesame!
+C-805 Sea Monster
+C-806 Mission 3000 A.D.
+C-807 Space Tunnel
+C-808 Phantom Tank
+C-809 Squirrel
+C-810 Enduro
+C-811 River Raid
+C-812 Pac-Man
+C-813 Pitfall!
+C-814 Donkey Kong
+C-815 Seaquest
+C-816 Keystone Kappers
+C-817 Air Raiders
+C-818 Star Voyager
+C-819 Star War
+C-820 Space Invaders
+C-821 Frogger
+C-822 Q*Bert
+C-823 Demon Attack
+C-824 Jaw Breaker
+C-825 Command Raid
+C-826 Grand Prix
+C-827 Chopper Command
+C-828 Missile Command
+C-829 Megamania
+C-830 Planet Patrol
+C-831 Cosmic Ark
+C-832 Atlantis
+C-833 Target Practice
+C-834 Fast Eddie
+C-835 Beany Bopper
+C-836 Mouse Trap
+C-837 Pizza Chef
+C-838 Immies & Aggies
+C-839 A Misterious Thief
+C-840 Stone Age
+C-841 Wizard of War
+C-842 Dodg'em
+C-843 Worm War 1
+C-844 Bank Heist
+C-845 Time Warp
+C-846 Space Jockey
+C-847 Dragon Treasure
+C-848 Sneak'n'Peak
+C-849 Boom Bang
+C-850 Turmoill
+C-851 Condor Attack
+C-852 Amphibious War
+C-853 Spider
+C-854 Football
+C-855 Othello
+C-856 Pimball
+C-857 Superman
+C-858 Tennis
+C-859 M.A.S.H.
+C-860 Laser Gate
+C-861 Boxing
+C-862 Crackpots
+C-863 Fisher Price
+C-864 Fortress Defense
+C-865 Duck Fighting
+C-866 Robot Attack
+C-867 Radar
+C-868 Bingo
+C-869 Tank
